@@ -1,0 +1,8 @@
+.qwen-md-tts/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.prepared.txt
+*.chunks.json
+
